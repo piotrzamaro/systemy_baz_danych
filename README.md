@@ -1,2 +1,7 @@
-# systemy_baz_danych
-Systemy baz danych. Studia Data Science UWM 2025
+# Systemy baz danych
+
+## Analiza i inżynieria danych
+
+Srypty z ćwiczeń z przedmiotu Systemy baz danych
+
+### UWM 2015
