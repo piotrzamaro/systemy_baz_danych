@@ -3,6 +3,7 @@
 <br>
 
 Srypty z ćwiczeń z przedmiotu Systemy baz danych na kierunku Analiza i inżynieria danych
+
 <br>
 
 **Rozkład jazdy:**
@@ -12,6 +13,7 @@ Srypty z ćwiczeń z przedmiotu Systemy baz danych na kierunku Analiza i inżyni
 * Łączenie tabel
 * Widoki
 * Okienka
-<br>
+
+-------------
 
 #### UWM 2025
