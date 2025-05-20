@@ -2,6 +2,8 @@
 
 Srypty z ćwiczeń z przedmiotu Systemy baz danych na kierunku Analiza i inżynieria danych
 
+**Rozkład jazdy:**
+
 * Tworzenie tabel SQL
 * Zapytania
 * Łączenie tabel
